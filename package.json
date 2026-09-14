@@ -30,16 +30,16 @@
   "author": "nsyout",
   "license": "MIT",
   "devDependencies": {
-    "@types/node": "^26.4.0",
-    "@vitest/coverage-v8": "^4.1.11",
+    "@types/node": "^26.5.1",
+    "@vitest/coverage-v8": "^5.0.0",
     "esbuild": "^0.28.2",
-    "eslint": "^10.9.1",
+    "eslint": "^10.10.0",
     "eslint-config-prettier": "^10.1.8",
     "eslint-plugin-obsidianmd": "^0.4.2",
     "obsidian": "~1.13.1",
     "prettier": "^3.9.6",
     "typescript": "^6.0.3",
-    "typescript-eslint": "^8.68.0",
-    "vitest": "^4.1.10"
+    "typescript-eslint": "^8.70.0",
+    "vitest": "^5.0.0"
   }
 }
